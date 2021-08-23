@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My Blog</title>
-    <link>http://example.org/</link>
+    <link>https://Xinze-Li-Bryan.github.io/</link>
     <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Aug 2021 19:30:33 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 19:30:33 +0800</lastBuildDate><atom:link href="https://Xinze-Li-Bryan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abc</title>
-      <link>http://example.org/posts/abc/</link>
+      <link>https://Xinze-Li-Bryan.github.io/posts/abc/</link>
       <pubDate>Mon, 23 Aug 2021 19:30:33 +0800</pubDate>
       
-      <guid>http://example.org/posts/abc/</guid>
+      <guid>https://Xinze-Li-Bryan.github.io/posts/abc/</guid>
       <description>examplelink2</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://example.org/posts/hello-world/</link>
+      <link>https://Xinze-Li-Bryan.github.io/posts/hello-world/</link>
       <pubDate>Mon, 23 Aug 2021 19:21:03 +0800</pubDate>
       
-      <guid>http://example.org/posts/hello-world/</guid>
+      <guid>https://Xinze-Li-Bryan.github.io/posts/hello-world/</guid>
       <description>this is a line of description</description>
     </item>
     

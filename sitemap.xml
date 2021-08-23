@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/abc/</loc>
+    <loc>https://Xinze-Li-Bryan.github.io/posts/abc/</loc>
     <lastmod>2021-08-23T19:30:33+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://Xinze-Li-Bryan.github.io/</loc>
     <lastmod>2021-08-23T19:30:33+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://Xinze-Li-Bryan.github.io/posts/</loc>
     <lastmod>2021-08-23T19:30:33+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/hello-world/</loc>
+    <loc>https://Xinze-Li-Bryan.github.io/posts/hello-world/</loc>
     <lastmod>2021-08-23T19:21:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://Xinze-Li-Bryan.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://Xinze-Li-Bryan.github.io/tags/</loc>
   </url>
 </urlset>
